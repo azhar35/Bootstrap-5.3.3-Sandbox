@@ -35,5 +35,3 @@ During this exploration, I covered several key features and components of Bootst
 
 7. **JavaScript Components**  
    - Explored interactive components like carousels, tooltips, and dropdowns.
-
-## Repository Structure
